@@ -1,2 +1,2 @@
-hello main
+hello main from new feature
 hello new-feature
