@@ -1,2 +1,3 @@
+hello main from new feature
 hello main from main
 hello new-feature
